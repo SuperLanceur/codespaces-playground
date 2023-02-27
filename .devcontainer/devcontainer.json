@@ -28,7 +28,6 @@
             "installJupyterlab": "true",
             "configureJupyterlabAllowOrigin": "*"
         },
-        "./local-features/machine-learning-packages": "latest",
         "ghcr.io/devcontainers/features/php:1": {
             "version": "8.2.1",
             "additionalVersions": "8.1.14",
@@ -81,7 +80,6 @@
         "ghcr.io/devcontainers/features/node",
         "./local-features/nvs",
         "ghcr.io/devcontainers/features/python",
-        "./local-features/machine-learning-packages",
         "ghcr.io/devcontainers/features/php",
         "ghcr.io/devcontainers/features/conda",
         "ghcr.io/devcontainers/features/ruby",
